@@ -1,4 +1,4 @@
-# ch 2.2.2 remote_test.py
+# ch 3.2 remote_test.py
 def remote_test():
     pass
 if __name__ == '__main__':
